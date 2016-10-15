@@ -1,0 +1,24 @@
+{
+  "name": "material-ui-snippets",
+  "version": "0.0.0",
+  "description": "Material-UI snippets for Atom",
+  "keywords": [
+    "javascript",
+    "react",
+    "material-ui",
+    "snippets"
+  ],
+  "activationHooks": [
+    "language-javascript:grammar-used",
+    "language-babel:grammar-used",
+    "language-react:grammar-used"
+  ],
+  "repository": "https://github.com/tomoya/material-ui-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.16.0"
+  }
+}

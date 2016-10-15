@@ -1,0 +1,97 @@
+# coffeelint: disable=max_line_length
+'.source.js':
+  "import AppBar from 'material-ui/AppBar';":
+    'prefix': 'import AppBar'
+    'body': "import AppBar from 'material-ui/AppBar';"
+    'description': 'The app bar, formerly known as the action bar in Android, is a special kind of toolbar that’s used for branding, navigation, search, and actions.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/app-bar'
+
+  "import AutoComplete from 'material-ui/AutoComplete';":
+    'prefix': 'import AutoComplete'
+    'body': "import AutoComplete from 'material-ui/AutoComplete';"
+    'description': 'The auto-complete is an extension of a regular text-field that will auto-complete the input dynamically.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/auto-complete'
+
+  "import Avatar from 'material-ui/Avatar';":
+    'prefix': 'import Avatar'
+    'body': "import Avatar from 'material-ui/Avatar';"
+    'description': 'Avatars can be used to represent people or object.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/avatar'
+
+  "import Badge from 'material-ui/Badge';":
+    'prefix': 'import Badge'
+    'body': "import Badge from 'material-ui/Badge';"
+    'description': 'This component generates a small badge to the top-right of its child(ren).'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/badge'
+
+  "import { BottomNavigation, BottomNavigationItem } from 'material-ui/BottomNavigation';":
+    'prefix': 'import BottomNavigation'
+    'body': "import { BottomNavigation, BottomNavigationItem } from 'material-ui/BottomNavigation';"
+    'description': 'The bottom navigation is a special kind of toolbar that’s used for navigation.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/bottom-navigation'
+
+  "import FlatButton from 'material-ui/FlatButton';":
+    'prefix': 'import FlatButton'
+    'body': "import FlatButton from 'material-ui/FlatButton';"
+    'description': 'Flat Buttons are used for general functions and reduce the amount of layering on the screen, making it more readable.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/flat-button'
+
+  "import RaisedButton from 'material-ui/RaisedButton';":
+    'prefix': 'import RaisedButton'
+    'body': "import RaisedButton from 'material-ui/RaisedButton';"
+    'description': 'This button is used to add dimension to mostly flat layouts and emphasizes important functions on your page.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/raised-button'
+
+  "import FloatingActionButton from 'material-ui/FloatingActionButton';":
+    'prefix': 'import FloatingActionButton'
+    'body': "import FloatingActionButton from 'material-ui/FloatingActionButton';"
+    'description': 'The Floating Action Button is used for frequently used functions.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/floating-action-button'
+
+  "import IconButton from 'material-ui/IconButton';":
+    'prefix': 'import IconButton'
+    'body': "import IconButton from 'material-ui/IconButton';"
+    'description': 'An Icon Button generates a button element around an icon.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/icon-button'
+
+  "import { Card } from 'material-ui/Card';":
+    'prefix': 'import Card'
+    'body': "import { $1Card, CardActions, CardHeader, CardMedia, CardTitle, CardText } from 'material-ui/Card';"
+    'description': 'A card is a piece of paper with unique related data that serves as an entry point to more detailed information.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/card'
+
+  "import Chip from 'material-ui/Chip';":
+    'prefix': 'import Chip'
+    'body': "import Chip from 'material-ui/Chip';"
+    'description': 'Chips represent complex entities in small blocks, such as a contact.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/chip'
+
+  "import DatePicker from 'material-ui/DatePicker';":
+    'prefix': 'import DatePicker'
+    'body': "import DatePicker from 'material-ui/DatePicker';"
+    'description': 'Date Pickers are used to select a single date for an input.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/date-picker'
+
+  "import Dialog from 'material-ui/Dialog';":
+    'prefix': 'import Dialog'
+    'body': "import Dialog from 'material-ui/Dialog';"
+    'description': 'Dialogs contain text and UI controls focused on a specific task.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/dialog'
+
+  "import Divider from 'material-ui/Divider';":
+    'prefix': 'import Divider'
+    'body': "import Divider from 'material-ui/Divider';"
+    'description': 'Dividers group and separate content within lists and page layouts.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/divider'
+
+  "import Drawer from 'material-ui/Drawer';":
+    'prefix': 'import Drawer'
+    'body': "import Drawer from 'material-ui/Drawer';"
+    'description': 'The Drawer slides in from the side.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/drawer'
+
+  "import { GridList, GridTile } from 'material-ui/GridList';":
+    'prefix': 'import GridList'
+    'body': "import { GridList, GridTile } from 'material-ui/GridList';"
+    'description': 'Simple flex-box based Grid List implementation.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
