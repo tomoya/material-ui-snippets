@@ -95,3 +95,51 @@
     'body': "import { GridList, GridTile } from 'material-ui/GridList';"
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
+
+  "import Snackbar from 'material-ui/Snackbar';":
+    'prefix': 'import Snackbar'
+    'body': "import Snackbar from 'material-ui/Snackbar';"
+    'description': 'Snackbars provide lightweight feedback about an operation by showing a brief message at the bottom of the screen.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/snackbar'
+
+  "import { Step, Stepper, StepLabel } from 'material-ui/Stepper';":
+    'prefix': 'import Stepper'
+    'body': "import { Step, Stepper, StepLabel } from 'material-ui/Stepper';"
+    'description': 'A stepper is an interface for users to show numbered steps or for navigation.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/stepper'
+
+  "import Subheader from 'material-ui/Subheader';":
+    'prefix': 'import Subheader'
+    'body': "import Subheader from 'material-ui/Subheader';"
+    'description': 'Subheaders are special list tiles that delineate distinct sections of a list or grid list and are typically related to the current filtering or sorting criteria.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/subheader'
+
+  "import { Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn } from 'material-ui/Table';":
+    'prefix': 'import Table'
+    'body': "import { Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn } from 'material-ui/Table';"
+    'description': 'Tables are used to display data and to organize it.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/table'
+
+  "import { Tabs, Tab } from 'material-ui/Tabs';":
+    'prefix': 'import Tabs'
+    'body': "import { Tabs, Tab } from 'material-ui/Tabs';"
+    'description': 'Tabs make it easy to explore and switch between different views or functional aspects of an app or to browse categorized data sets.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/tabs'
+
+  "import TextField from 'material-ui/TextField';":
+    'prefix': 'import TextField'
+    'body': "import TextField from 'material-ui/TextField';"
+    'description': 'Text fields allow users to input text.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/text-field'
+
+  "import TimePicker from 'material-ui/TimePicker';":
+    'prefix': 'import TimePicker'
+    'body': "import TimePicker from 'material-ui/TimePicker';"
+    'description': 'A time picker is used to input a time by displaying an interface the user can interact with.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/time-picker'
+
+  "import { Toolbar, ToolbarGroup, ToolbarSeparator, ToolbarTitle } from 'material-ui/Toolbar';":
+    'prefix': 'import Toolbar'
+    'body': "import { Toolbar, ToolbarGroup, ToolbarSeparator, ToolbarTitle } from 'material-ui/Toolbar';"
+    'description': 'Toolbars are collections of components stacked horizontally against each other.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/toolbar'
