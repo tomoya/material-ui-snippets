@@ -96,6 +96,24 @@
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
+  "import Menu from 'material-ui/Menu';":
+    'prefix': 'import Menu'
+    'body': "import Menu from 'material-ui/Menu';"
+    'description': 'Menus allow you to take an action by selecting from a list revealed upon opening a temporary, new sheet of material.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/menu'
+
+  "import IconMenu from 'material-ui/IconMenu';":
+    'prefix': 'import IconMenu'
+    'body': "import IconMenu from 'material-ui/IconMenu';"
+    'description': 'Icon Menus are menus that open from icons.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/icon-menu'
+
+  "import DropDownMenu from 'material-ui/DropDownMenu';":
+    'prefix': 'import DropDownMenu'
+    'body': "import DropDownMenu from 'material-ui/DropDownMenu';"
+    'description': 'The DropDownMenu component is Material-UI\'s implementation of the Textfield dropdown.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/dropdown-menu'
+
   "import Paper from 'material-ui/Paper';":
     'prefix': 'import Paper'
     'body': "import Paper from 'material-ui/Paper';"
