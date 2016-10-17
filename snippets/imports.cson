@@ -96,6 +96,24 @@
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
+  "import CircularProgress from 'material-ui/CircularProgress';":
+    'prefix': 'import CircularProgress'
+    'body': "import CircularProgress from 'material-ui/CircularProgress';"
+    'description': 'Circular Progress will rotate to show the progress of a task or that there is a wait for a task to complete.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/circular-progress'
+
+  "import LinearProgress from 'material-ui/LinearProgress';":
+    'prefix': 'import LinearProgress'
+    'body': "import LinearProgress from 'material-ui/LinearProgress';"
+    'description': 'Linear Progress bars fill from 0% to 100% to show the progress of a task.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/linear-progress'
+
+  "import RefreshIndicator from 'material-ui/RefreshIndicator';":
+    'prefix': 'import RefreshIndicator'
+    'body': "import RefreshIndicator from 'material-ui/RefreshIndicator';"
+    'description': 'The refresh indicator is used when showing an item is loading.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/refresh-indicator'
+
   "import SelectField from 'material-ui/SelectField';":
     'prefix': 'import SelectField'
     'body': "import SelectField from 'material-ui/SelectField';"
