@@ -96,6 +96,12 @@
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
+  "import Paper from 'material-ui/Paper';":
+    'prefix': 'import Paper'
+    'body': "import Paper from 'material-ui/Paper';"
+    'description': 'A Paper element is a basic container that can give depth to the page.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/paper'
+
   "import Popover from 'material-ui/Popover';":
     'prefix': 'import Popover'
     'body': "import Popover from 'material-ui/Popover';"
