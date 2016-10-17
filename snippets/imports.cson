@@ -96,6 +96,12 @@
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
+  "import { List, ListItem, makeSelectable } from 'material-ui/List';":
+    'prefix': 'import List'
+    'body': "import { List, ListItem, makeSelectable } from 'material-ui/List';"
+    'description': 'Lists are used to present multiple items vertically as a single continuous element.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/list'
+
   "import Menu from 'material-ui/Menu';":
     'prefix': 'import Menu'
     'body': "import Menu from 'material-ui/Menu';"
