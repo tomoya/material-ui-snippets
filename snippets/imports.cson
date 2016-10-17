@@ -245,3 +245,9 @@
     'body': "import { $1 } from 'material-ui/styles/colors';\n$2"
     'description': 'We\'ve created javascript variables for every color used in the UI Color Palette. They are stored in styles/colors.js.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/customization/colors'
+
+  "import withWidth, { SMALL, MEDIUM, LARGE } from './withWidth';":
+    'prefix': 'import withWidth'
+    'body': "import $1withWidth, { $2SMALL, MEDIUM, LARGE } from 'material-ui/utils/withWidth';\n$3"
+    'description': 'a HOC of width'
+    'descriptionMoreURL': 'https://github.com/callemall/material-ui/blob/master/src/utils/withWidth.js'
