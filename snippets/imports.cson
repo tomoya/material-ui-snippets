@@ -96,6 +96,18 @@
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
+  "import FontIcon from 'material-ui/FontIcon';":
+    'prefix': 'import FontIcon'
+    'body': "import FontIcon from 'material-ui/FontIcon';"
+    'description': 'This component will render any icon defined in any stylesheet included in your project.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/font-icon'
+
+  "import SvgIcon from 'material-ui/SvgIcon';":
+    'prefix': 'import SvgIcon'
+    'body': "import SvgIcon from 'material-ui/SvgIcon';"
+    'description': 'The SvgIcon component takes an SVG path element as its child, and converts it to a React component which displays the path and allows the icon to be styled and respond to mouse events.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/svg-icon'
+
   "import { List, ListItem, makeSelectable } from 'material-ui/List';":
     'prefix': 'import List'
     'body': "import { List, ListItem, makeSelectable } from 'material-ui/List';"
