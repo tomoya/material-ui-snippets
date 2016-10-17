@@ -6,5 +6,6 @@
 
 ## ToDo
 
-- Add import snippets completely
-- Add JSX snippets
+- [x] Add import snippets completely
+- [ ] Add [styles](https://github.com/callemall/material-ui/tree/master/src/styles) snippets
+- [ ] Add JSX snippets
