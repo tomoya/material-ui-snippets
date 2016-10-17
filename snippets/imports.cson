@@ -96,6 +96,12 @@
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
+  "import Slider from 'material-ui/Slider';":
+    'prefix': 'import Slider'
+    'body': "import Slider from 'material-ui/Slider';"
+    'description': 'A slider is an interface for users to input a value in a range.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/slider'
+
   "import Checkbox from 'material-ui/Checkbox';":
     'prefix': 'import Checkbox'
     'body': "import Checkbox from 'material-ui/Checkbox';"
