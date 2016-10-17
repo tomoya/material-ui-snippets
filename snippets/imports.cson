@@ -96,6 +96,24 @@
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
+  "import Checkbox from 'material-ui/Checkbox';":
+    'prefix': 'import Checkbox'
+    'body': "import Checkbox from 'material-ui/Checkbox';"
+    'description': 'A checkbox is used to verify which options you want selected from a group.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/checkbox'
+
+  "import { RadioButton, RadioButtonGroup } from 'material-ui/RadioButton';":
+    'prefix': 'import RadioButton'
+    'body': "import { RadioButton, RadioButtonGroup } from 'material-ui/RadioButton';"
+    'description': 'Radio buttons are switches used for selection from multiple options.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/radio-button'
+
+  "import Toggle from 'material-ui/Toggle';":
+    'prefix': 'import Toggle'
+    'body': "import Toggle from 'material-ui/Toggle';"
+    'description': 'A toggle switch is used as an on/off control.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/toggle'
+
   "import Snackbar from 'material-ui/Snackbar';":
     'prefix': 'import Snackbar'
     'body': "import Snackbar from 'material-ui/Snackbar';"
