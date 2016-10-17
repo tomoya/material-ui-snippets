@@ -96,6 +96,12 @@
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
+  "import Popover from 'material-ui/Popover';":
+    'prefix': 'import Popover'
+    'body': "import Popover from 'material-ui/Popover';"
+    'description': 'A Popover can be used as an alternative to a Drop Down Menu that can contain elements inside.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/popover'
+
   "import CircularProgress from 'material-ui/CircularProgress';":
     'prefix': 'import CircularProgress'
     'body': "import CircularProgress from 'material-ui/CircularProgress';"
