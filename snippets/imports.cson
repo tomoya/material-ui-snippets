@@ -2,246 +2,246 @@
 '.source.js':
   "import AppBar from 'material-ui/AppBar';":
     'prefix': 'import AppBar'
-    'body': "import AppBar from 'material-ui/AppBar';"
+    'body': "import AppBar from 'material-ui/AppBar';\n$1"
     'description': 'The app bar, formerly known as the action bar in Android, is a special kind of toolbar that’s used for branding, navigation, search, and actions.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/app-bar'
 
   "import AutoComplete from 'material-ui/AutoComplete';":
     'prefix': 'import AutoComplete'
-    'body': "import AutoComplete from 'material-ui/AutoComplete';"
+    'body': "import AutoComplete from 'material-ui/AutoComplete';\n$1"
     'description': 'The auto-complete is an extension of a regular text-field that will auto-complete the input dynamically.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/auto-complete'
 
   "import Avatar from 'material-ui/Avatar';":
     'prefix': 'import Avatar'
-    'body': "import Avatar from 'material-ui/Avatar';"
+    'body': "import Avatar from 'material-ui/Avatar';\n$1"
     'description': 'Avatars can be used to represent people or object.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/avatar'
 
   "import Badge from 'material-ui/Badge';":
     'prefix': 'import Badge'
-    'body': "import Badge from 'material-ui/Badge';"
+    'body': "import Badge from 'material-ui/Badge';\n$1"
     'description': 'This component generates a small badge to the top-right of its child(ren).'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/badge'
 
   "import { BottomNavigation, BottomNavigationItem } from 'material-ui/BottomNavigation';":
     'prefix': 'import BottomNavigation'
-    'body': "import { BottomNavigation, BottomNavigationItem } from 'material-ui/BottomNavigation';"
+    'body': "import { $1BottomNavigation, BottomNavigationItem } from 'material-ui/BottomNavigation';\n$2"
     'description': 'The bottom navigation is a special kind of toolbar that’s used for navigation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/bottom-navigation'
 
   "import FlatButton from 'material-ui/FlatButton';":
     'prefix': 'import FlatButton'
-    'body': "import FlatButton from 'material-ui/FlatButton';"
+    'body': "import FlatButton from 'material-ui/FlatButton';\n$1"
     'description': 'Flat Buttons are used for general functions and reduce the amount of layering on the screen, making it more readable.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/flat-button'
 
   "import RaisedButton from 'material-ui/RaisedButton';":
     'prefix': 'import RaisedButton'
-    'body': "import RaisedButton from 'material-ui/RaisedButton';"
+    'body': "import RaisedButton from 'material-ui/RaisedButton';\n$1"
     'description': 'This button is used to add dimension to mostly flat layouts and emphasizes important functions on your page.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/raised-button'
 
   "import FloatingActionButton from 'material-ui/FloatingActionButton';":
     'prefix': 'import FloatingActionButton'
-    'body': "import FloatingActionButton from 'material-ui/FloatingActionButton';"
+    'body': "import FloatingActionButton from 'material-ui/FloatingActionButton';\n$1"
     'description': 'The Floating Action Button is used for frequently used functions.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/floating-action-button'
 
   "import IconButton from 'material-ui/IconButton';":
     'prefix': 'import IconButton'
-    'body': "import IconButton from 'material-ui/IconButton';"
+    'body': "import IconButton from 'material-ui/IconButton';\n$1"
     'description': 'An Icon Button generates a button element around an icon.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/icon-button'
 
   "import { Card } from 'material-ui/Card';":
     'prefix': 'import Card'
-    'body': "import { $1Card, CardActions, CardHeader, CardMedia, CardTitle, CardText } from 'material-ui/Card';"
+    'body': "import { $1Card, CardActions, CardHeader, CardMedia, CardTitle, CardText } from 'material-ui/Card';\n$2"
     'description': 'A card is a piece of paper with unique related data that serves as an entry point to more detailed information.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/card'
 
   "import Chip from 'material-ui/Chip';":
     'prefix': 'import Chip'
-    'body': "import Chip from 'material-ui/Chip';"
+    'body': "import Chip from 'material-ui/Chip';\n$1"
     'description': 'Chips represent complex entities in small blocks, such as a contact.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/chip'
 
   "import DatePicker from 'material-ui/DatePicker';":
     'prefix': 'import DatePicker'
-    'body': "import DatePicker from 'material-ui/DatePicker';"
+    'body': "import DatePicker from 'material-ui/DatePicker';\n$1"
     'description': 'Date Pickers are used to select a single date for an input.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/date-picker'
 
   "import Dialog from 'material-ui/Dialog';":
     'prefix': 'import Dialog'
-    'body': "import Dialog from 'material-ui/Dialog';"
+    'body': "import Dialog from 'material-ui/Dialog';\n$1"
     'description': 'Dialogs contain text and UI controls focused on a specific task.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/dialog'
 
   "import Divider from 'material-ui/Divider';":
     'prefix': 'import Divider'
-    'body': "import Divider from 'material-ui/Divider';"
+    'body': "import Divider from 'material-ui/Divider';\n$1"
     'description': 'Dividers group and separate content within lists and page layouts.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/divider'
 
   "import Drawer from 'material-ui/Drawer';":
     'prefix': 'import Drawer'
-    'body': "import Drawer from 'material-ui/Drawer';"
+    'body': "import Drawer from 'material-ui/Drawer';\n$1"
     'description': 'The Drawer slides in from the side.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/drawer'
 
   "import { GridList, GridTile } from 'material-ui/GridList';":
     'prefix': 'import GridList'
-    'body': "import { GridList, GridTile } from 'material-ui/GridList';"
+    'body': "import { $1GridList, GridTile } from 'material-ui/GridList';\n$2"
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
   "import FontIcon from 'material-ui/FontIcon';":
     'prefix': 'import FontIcon'
-    'body': "import FontIcon from 'material-ui/FontIcon';"
+    'body': "import FontIcon from 'material-ui/FontIcon';\n$1"
     'description': 'This component will render any icon defined in any stylesheet included in your project.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/font-icon'
 
   "import SvgIcon from 'material-ui/SvgIcon';":
     'prefix': 'import SvgIcon'
-    'body': "import SvgIcon from 'material-ui/SvgIcon';"
+    'body': "import SvgIcon from 'material-ui/SvgIcon';\n$1"
     'description': 'The SvgIcon component takes an SVG path element as its child, and converts it to a React component which displays the path and allows the icon to be styled and respond to mouse events.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/svg-icon'
 
   "import { List, ListItem, makeSelectable } from 'material-ui/List';":
     'prefix': 'import List'
-    'body': "import { List, ListItem, makeSelectable } from 'material-ui/List';"
+    'body': "import { $1List, ListItem, makeSelectable } from 'material-ui/List';\n$2"
     'description': 'Lists are used to present multiple items vertically as a single continuous element.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/list'
 
   "import Menu from 'material-ui/Menu';":
     'prefix': 'import Menu'
-    'body': "import Menu from 'material-ui/Menu';"
+    'body': "import Menu from 'material-ui/Menu';\n$1"
     'description': 'Menus allow you to take an action by selecting from a list revealed upon opening a temporary, new sheet of material.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/menu'
 
   "import IconMenu from 'material-ui/IconMenu';":
     'prefix': 'import IconMenu'
-    'body': "import IconMenu from 'material-ui/IconMenu';"
+    'body': "import IconMenu from 'material-ui/IconMenu';\n$1"
     'description': 'Icon Menus are menus that open from icons.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/icon-menu'
 
   "import DropDownMenu from 'material-ui/DropDownMenu';":
     'prefix': 'import DropDownMenu'
-    'body': "import DropDownMenu from 'material-ui/DropDownMenu';"
+    'body': "import DropDownMenu from 'material-ui/DropDownMenu';\n$1"
     'description': 'The DropDownMenu component is Material-UI\'s implementation of the Textfield dropdown.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/dropdown-menu'
 
   "import Paper from 'material-ui/Paper';":
     'prefix': 'import Paper'
-    'body': "import Paper from 'material-ui/Paper';"
+    'body': "import Paper from 'material-ui/Paper';\n$1"
     'description': 'A Paper element is a basic container that can give depth to the page.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/paper'
 
   "import Popover from 'material-ui/Popover';":
     'prefix': 'import Popover'
-    'body': "import Popover from 'material-ui/Popover';"
+    'body': "import Popover from 'material-ui/Popover';\n$1"
     'description': 'A Popover can be used as an alternative to a Drop Down Menu that can contain elements inside.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/popover'
 
   "import CircularProgress from 'material-ui/CircularProgress';":
     'prefix': 'import CircularProgress'
-    'body': "import CircularProgress from 'material-ui/CircularProgress';"
+    'body': "import CircularProgress from 'material-ui/CircularProgress';\n$1"
     'description': 'Circular Progress will rotate to show the progress of a task or that there is a wait for a task to complete.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/circular-progress'
 
   "import LinearProgress from 'material-ui/LinearProgress';":
     'prefix': 'import LinearProgress'
-    'body': "import LinearProgress from 'material-ui/LinearProgress';"
+    'body': "import LinearProgress from 'material-ui/LinearProgress';\n$1"
     'description': 'Linear Progress bars fill from 0% to 100% to show the progress of a task.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/linear-progress'
 
   "import RefreshIndicator from 'material-ui/RefreshIndicator';":
     'prefix': 'import RefreshIndicator'
-    'body': "import RefreshIndicator from 'material-ui/RefreshIndicator';"
+    'body': "import RefreshIndicator from 'material-ui/RefreshIndicator';\n$1"
     'description': 'The refresh indicator is used when showing an item is loading.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/refresh-indicator'
 
   "import SelectField from 'material-ui/SelectField';":
     'prefix': 'import SelectField'
-    'body': "import SelectField from 'material-ui/SelectField';"
+    'body': "import SelectField from 'material-ui/SelectField';\n$1"
     'description': 'To learn more about SelectField please visit the specifications here.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/select-field'
 
   "import Slider from 'material-ui/Slider';":
     'prefix': 'import Slider'
-    'body': "import Slider from 'material-ui/Slider';"
+    'body': "import Slider from 'material-ui/Slider';\n$1"
     'description': 'A slider is an interface for users to input a value in a range.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/slider'
 
   "import Checkbox from 'material-ui/Checkbox';":
     'prefix': 'import Checkbox'
-    'body': "import Checkbox from 'material-ui/Checkbox';"
+    'body': "import Checkbox from 'material-ui/Checkbox';\n$1"
     'description': 'A checkbox is used to verify which options you want selected from a group.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/checkbox'
 
   "import { RadioButton, RadioButtonGroup } from 'material-ui/RadioButton';":
     'prefix': 'import RadioButton'
-    'body': "import { RadioButton, RadioButtonGroup } from 'material-ui/RadioButton';"
+    'body': "import { $1RadioButton, RadioButtonGroup } from 'material-ui/RadioButton';\n$2"
     'description': 'Radio buttons are switches used for selection from multiple options.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/radio-button'
 
   "import Toggle from 'material-ui/Toggle';":
     'prefix': 'import Toggle'
-    'body': "import Toggle from 'material-ui/Toggle';"
+    'body': "import Toggle from 'material-ui/Toggle';\n$1"
     'description': 'A toggle switch is used as an on/off control.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/toggle'
 
   "import Snackbar from 'material-ui/Snackbar';":
     'prefix': 'import Snackbar'
-    'body': "import Snackbar from 'material-ui/Snackbar';"
+    'body': "import Snackbar from 'material-ui/Snackbar';\n$1"
     'description': 'Snackbars provide lightweight feedback about an operation by showing a brief message at the bottom of the screen.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/snackbar'
 
   "import { Step, Stepper, StepLabel } from 'material-ui/Stepper';":
     'prefix': 'import Stepper'
-    'body': "import { Step, Stepper, StepLabel } from 'material-ui/Stepper';"
+    'body': "import { $1Step, Stepper, StepLabel } from 'material-ui/Stepper';\n$2"
     'description': 'A stepper is an interface for users to show numbered steps or for navigation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/stepper'
 
   "import Subheader from 'material-ui/Subheader';":
     'prefix': 'import Subheader'
-    'body': "import Subheader from 'material-ui/Subheader';"
+    'body': "import Subheader from 'material-ui/Subheader';\n$1"
     'description': 'Subheaders are special list tiles that delineate distinct sections of a list or grid list and are typically related to the current filtering or sorting criteria.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/subheader'
 
   "import { Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn } from 'material-ui/Table';":
     'prefix': 'import Table'
-    'body': "import { Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn } from 'material-ui/Table';"
+    'body': "import { $1Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn } from 'material-ui/Table';\n$2"
     'description': 'Tables are used to display data and to organize it.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/table'
 
   "import { Tabs, Tab } from 'material-ui/Tabs';":
     'prefix': 'import Tabs'
-    'body': "import { Tabs, Tab } from 'material-ui/Tabs';"
+    'body': "import { $1Tabs, Tab } from 'material-ui/Tabs';\n$2"
     'description': 'Tabs make it easy to explore and switch between different views or functional aspects of an app or to browse categorized data sets.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/tabs'
 
   "import TextField from 'material-ui/TextField';":
     'prefix': 'import TextField'
-    'body': "import TextField from 'material-ui/TextField';"
+    'body': "import TextField from 'material-ui/TextField';\n$1"
     'description': 'Text fields allow users to input text.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/text-field'
 
   "import TimePicker from 'material-ui/TimePicker';":
     'prefix': 'import TimePicker'
-    'body': "import TimePicker from 'material-ui/TimePicker';"
+    'body': "import TimePicker from 'material-ui/TimePicker';\n$1"
     'description': 'A time picker is used to input a time by displaying an interface the user can interact with.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/time-picker'
 
   "import { Toolbar, ToolbarGroup, ToolbarSeparator, ToolbarTitle } from 'material-ui/Toolbar';":
     'prefix': 'import Toolbar'
-    'body': "import { Toolbar, ToolbarGroup, ToolbarSeparator, ToolbarTitle } from 'material-ui/Toolbar';"
+    'body': "import { $1Toolbar, ToolbarGroup, ToolbarSeparator, ToolbarTitle } from 'material-ui/Toolbar';\n$2"
     'description': 'Toolbars are collections of components stacked horizontally against each other.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/toolbar'
 
   "import {  } from 'material-ui/styles/colors';":
     'prefix': 'import colors'
-    'body': "import { $1 } from 'material-ui/styles/colors';"
+    'body': "import { $1 } from 'material-ui/styles/colors';\n$2"
     'description': 'We\'ve created javascript variables for every color used in the UI Color Palette. They are stored in styles/colors.js.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/customization/colors'
