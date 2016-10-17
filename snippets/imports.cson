@@ -96,6 +96,12 @@
     'description': 'Simple flex-box based Grid List implementation.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/grid-list'
 
+  "import SelectField from 'material-ui/SelectField';":
+    'prefix': 'import SelectField'
+    'body': "import SelectField from 'material-ui/SelectField';"
+    'description': 'To learn more about SelectField please visit the specifications here.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/components/select-field'
+
   "import Slider from 'material-ui/Slider';":
     'prefix': 'import Slider'
     'body': "import Slider from 'material-ui/Slider';"
