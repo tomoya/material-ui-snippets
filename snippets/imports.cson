@@ -239,3 +239,9 @@
     'body': "import { Toolbar, ToolbarGroup, ToolbarSeparator, ToolbarTitle } from 'material-ui/Toolbar';"
     'description': 'Toolbars are collections of components stacked horizontally against each other.'
     'descriptionMoreURL': 'http://www.material-ui.com/#/components/toolbar'
+
+  "import {  } from 'material-ui/styles/colors';":
+    'prefix': 'import colors'
+    'body': "import { $1 } from 'material-ui/styles/colors';"
+    'description': 'We\'ve created javascript variables for every color used in the UI Color Palette. They are stored in styles/colors.js.'
+    'descriptionMoreURL': 'http://www.material-ui.com/#/customization/colors'
