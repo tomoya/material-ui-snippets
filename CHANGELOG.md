@@ -1,3 +1,8 @@
+## v1.0.0 (2016-10-17)
+
+- Add rest imports snippets
+- Add colors snippets
+
 ## v0.0.2 (2016-10-17)
 
 - Add more snippets
