@@ -106,9 +106,6 @@
   'purple600':
     'prefix': 'purple600'
     'body': 'purple600'
-  'purple600':
-    'prefix': 'purple600'
-    'body': 'purple600'
   'purple700':
     'prefix': 'purple700'
     'body': 'purple700'
@@ -149,9 +146,6 @@
   'deepPurple500':
     'prefix': 'deepPurple500'
     'body': 'deepPurple500'
-  'deepPurple600':
-    'prefix': 'deepPurple600'
-    'body': 'deepPurple600'
   'deepPurple600':
     'prefix': 'deepPurple600'
     'body': 'deepPurple600'
@@ -198,9 +192,6 @@
   'indigo600':
     'prefix': 'indigo600'
     'body': 'indigo600'
-  'indigo600':
-    'prefix': 'indigo600'
-    'body': 'indigo600'
   'indigo700':
     'prefix': 'indigo700'
     'body': 'indigo700'
@@ -241,9 +232,6 @@
   'blue500':
     'prefix': 'blue500'
     'body': 'blue500'
-  'blue600':
-    'prefix': 'blue600'
-    'body': 'blue600'
   'blue600':
     'prefix': 'blue600'
     'body': 'blue600'
@@ -290,9 +278,6 @@
   'lightBlue600':
     'prefix': 'lightBlue600'
     'body': 'lightBlue600'
-  'lightBlue600':
-    'prefix': 'lightBlue600'
-    'body': 'lightBlue600'
   'lightBlue700':
     'prefix': 'lightBlue700'
     'body': 'lightBlue700'
@@ -333,9 +318,6 @@
   'cyan500':
     'prefix': 'cyan500'
     'body': 'cyan500'
-  'cyan600':
-    'prefix': 'cyan600'
-    'body': 'cyan600'
   'cyan600':
     'prefix': 'cyan600'
     'body': 'cyan600'
@@ -382,9 +364,6 @@
   'teal600':
     'prefix': 'teal600'
     'body': 'teal600'
-  'teal600':
-    'prefix': 'teal600'
-    'body': 'teal600'
   'teal700':
     'prefix': 'teal700'
     'body': 'teal700'
@@ -425,9 +404,6 @@
   'green500':
     'prefix': 'green500'
     'body': 'green500'
-  'green600':
-    'prefix': 'green600'
-    'body': 'green600'
   'green600':
     'prefix': 'green600'
     'body': 'green600'
@@ -474,9 +450,6 @@
   'lightGreen600':
     'prefix': 'lightGreen600'
     'body': 'lightGreen600'
-  'lightGreen600':
-    'prefix': 'lightGreen600'
-    'body': 'lightGreen600'
   'lightGreen700':
     'prefix': 'lightGreen700'
     'body': 'lightGreen700'
@@ -517,9 +490,6 @@
   'lime500':
     'prefix': 'lime500'
     'body': 'lime500'
-  'lime600':
-    'prefix': 'lime600'
-    'body': 'lime600'
   'lime600':
     'prefix': 'lime600'
     'body': 'lime600'
@@ -566,9 +536,6 @@
   'yellow600':
     'prefix': 'yellow600'
     'body': 'yellow600'
-  'yellow600':
-    'prefix': 'yellow600'
-    'body': 'yellow600'
   'yellow700':
     'prefix': 'yellow700'
     'body': 'yellow700'
@@ -609,9 +576,6 @@
   'amber500':
     'prefix': 'amber500'
     'body': 'amber500'
-  'amber600':
-    'prefix': 'amber600'
-    'body': 'amber600'
   'amber600':
     'prefix': 'amber600'
     'body': 'amber600'
@@ -658,9 +622,6 @@
   'orange600':
     'prefix': 'orange600'
     'body': 'orange600'
-  'orange600':
-    'prefix': 'orange600'
-    'body': 'orange600'
   'orange700':
     'prefix': 'orange700'
     'body': 'orange700'
@@ -701,9 +662,6 @@
   'deepOrange500':
     'prefix': 'deepOrange500'
     'body': 'deepOrange500'
-  'deepOrange600':
-    'prefix': 'deepOrange600'
-    'body': 'deepOrange600'
   'deepOrange600':
     'prefix': 'deepOrange600'
     'body': 'deepOrange600'
@@ -750,9 +708,6 @@
   'brown600':
     'prefix': 'brown600'
     'body': 'brown600'
-  'brown600':
-    'prefix': 'brown600'
-    'body': 'brown600'
   'brown700':
     'prefix': 'brown700'
     'body': 'brown700'
@@ -784,9 +739,6 @@
   'blueGrey600':
     'prefix': 'blueGrey600'
     'body': 'blueGrey600'
-  'blueGrey600':
-    'prefix': 'blueGrey600'
-    'body': 'blueGrey600'
   'blueGrey700':
     'prefix': 'blueGrey700'
     'body': 'blueGrey700'
@@ -815,9 +767,6 @@
   'grey500':
     'prefix': 'grey500'
     'body': 'grey500'
-  'grey600':
-    'prefix': 'grey600'
-    'body': 'grey600'
   'grey600':
     'prefix': 'grey600'
     'body': 'grey600'
