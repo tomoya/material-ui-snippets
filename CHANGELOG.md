@@ -1,3 +1,7 @@
+## v1.0.3 (2018-03-17)
+
+- Remove deplicated items
+
 ## v1.0.2 (2018-03-14)
 
 - Remove deplicated item
